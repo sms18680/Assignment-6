@@ -1,0 +1,31 @@
+[
+{
+    "name":"Mahesh",
+    "dob":"18/6/80",
+    "height": "5ft",
+    "city" : "surat",
+    "state":"gujarat"
+},
+{"name":"Rishav",
+"dob":"25/11/2002",
+"height": "5ft",
+"city" : "Patna",
+"state":"Bihar"},
+
+{"name":"Nikita",
+"dob":"17/3/99",
+"height": "4ft",
+"city" : "Mumbai",
+"state":"Maharashtra"},
+
+{"name":"Sweta",
+    "dob":"25/4/84",
+    "height": "5ft",
+    "city" : "puna",
+    "state":"maharshtra"},
+
+{"name":"Sachin",
+"dob":"24/486",
+"height": "5ft",
+"city" : "raipur",
+"state":"chattisgarh"}]
